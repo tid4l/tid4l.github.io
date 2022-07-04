@@ -9,7 +9,7 @@ After much deliberation, I have finally settled on a way to host my thoughts, re
 
 My indecision about the best way forward delayed this project for years (I've got some catching up to do), but I think I've found a solution that is relatively low cost and, more importantly, low maintenance. As with any good first blog post, I'm obligated to outline the process to set up a site like this.
 
-> Although this blog's intent is for cybersecurity and offensive security research, tools, and guides, this particular how-to is intended for a wider audience; I am writing it in such a way that I hope anyone with an interested in an online blog can follow. However, with this method, one should be familiar with markdown (`.md`). 
+> You may have noticed *older* posts here, even though this is my first post. I recently migrated my old Hack The Box writeups from a standalone repo for accessibility. However, I can't speak to their fidelity as they were written to facilitate my learning.
 {: .prompt-tip }
 
 ## Overview
@@ -23,6 +23,9 @@ To get our site up and running, we need to follow this basic framework:
 5. Make a few config adjustments and create a post.
 6. Publish to GitHub.
 7. Enjoy the new site! 
+
+> Although this blog's intent is for cybersecurity and offensive security research, tools, and guides, this particular how-to is intended for a wider audience; I am writing it in such a way that I hope anyone with an interested in an online blog can follow. However, with this method, one should be familiar with markdown (`.md`). 
+{: .prompt-info }
 
 ## GitHub
 
